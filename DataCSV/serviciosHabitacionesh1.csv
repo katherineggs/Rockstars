@@ -1,0 +1,11 @@
+﻿id_servicios;Tipo_cama;cant_camas;mini_bar;ocupacion_min;ocupacion_max;balcon;electronicos
+1000110101;Queen;1;TRUE;1;2;TRUE;TRUE
+1000110102;Queen;1;TRUE;1;2;TRUE;TRUE
+1000110103;Matrimonial;2;TRUE;2;2;FALSE;TRUE
+1000110104;Matrimonial;2;TRUE;2;2;FALSE;TRUE
+1000110105;Matrimonial;3;TRUE;2;3;FALSE;TRUE
+1000110106;Matrimonial;2;TRUE;2;3;FALSE;TRUE
+1000110107;Matrimonial;2;TRUE;2;3;FALSE;TRUE
+1000110108;Matrimonial;2;TRUE;2;2;FALSE;TRUE
+1000110109;Queen;1;TRUE;1;2;TRUE;TRUE
+1000110110;Queen;1;TRUE;1;2;TRUE;TRUE

@@ -29,8 +29,7 @@ CREATE TABLE cliente(
     telefono int,
     email varchar,
     direccion varchar,
-    cant_acompañantes int,
-    id_servicios int
+    cant_acompañantes int
 );
 
 CREATE TABLE reserva(
