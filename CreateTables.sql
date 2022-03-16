@@ -1,4 +1,23 @@
--- No está el query para las tablas de servicios
+-- create tables ERD
+CREATE TABLE servicios_hotel(
+    id_servicios int primary key,
+    restaurante boolean,
+    gym boolean,
+    bar boolean,
+    salon_eventos boolean
+);
+
+CREATE TABLE servicios_habitacion(
+    id_servicios int primary key,
+    tipo_cama varchar,
+    cant_camas int,
+    minibar boolean,
+    ocupacion_min int,
+    ocupacion_max int,
+    balcon boolean,
+    electronicos boolean
+);
+
 CREATE TABLE hotel(
     id_hotel int primary key,
     ubicacion varchar,
@@ -7,7 +26,7 @@ CREATE TABLE hotel(
     id_servicios int,
      CONSTRAINT id_servicios
       FOREIGN KEY(id_servicios)
-	  REFERENCES "serviciosHotel"(id_servicios)
+	  REFERENCES servicios_hotel(id_servicios)
 	  ON DELETE CASCADE
 );
 
@@ -18,7 +37,7 @@ CREATE TABLE habitacion(
     id_servicios int,
      CONSTRAINT id_servicios
       FOREIGN KEY(id_servicios)
-	  REFERENCES "serviciosHabitacion"(id_servicios)
+	  REFERENCES servicios_habitacion(id_servicios)
 	  ON DELETE CASCADE
 );
 
@@ -37,6 +56,8 @@ CREATE TABLE reserva(
     id_hotel int,
     id_habitacion int,
     id_cliente int,
+    fecha_ingreso date,
+    fecha_egreso date,
      CONSTRAINT id_hotel
       FOREIGN KEY(id_hotel)
 	  REFERENCES "hotel"(id_hotel)
