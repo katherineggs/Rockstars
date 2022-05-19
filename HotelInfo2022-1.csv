@@ -1,0 +1,449 @@
+Hotelid|nombre|direccion|rating|pais|ciudad|telefono|website|RoomID|Max_Camas|Max_Ocupacion|TV|Nevera|Lampara|TVBox|Escritorio|Sillas|Balcon
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|1|1|4|0|1|0|1|0|3|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|2|4|6|0|0|0|1|1|1|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|3|1|5|0|1|0|0|1|2|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|4|4|3|1|1|1|1|0|2|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|5|3|5|0|0|0|0|1|4|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|6|2|6|1|1|0|1|0|2|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|7|4|1|1|0|0|1|0|4|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|8|3|4|1|1|1|0|1|1|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|9|1|4|0|0|0|0|1|4|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|10|2|1|1|1|0|1|0|4|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|11|3|1|0|0|1|0|0|2|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|12|4|4|0|1|1|0|0|3|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|13|1|2|1|0|0|1|1|2|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|14|1|1|0|1|0|1|0|1|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|15|1|4|1|0|0|0|1|3|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|16|4|6|1|0|1|1|0|4|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|17|3|6|1|1|0|0|0|4|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|18|3|3|0|0|1|0|0|4|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|19|3|6|0|1|0|1|1|4|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|20|4|5|1|0|0|1|1|2|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|21|2|1|0|1|0|1|1|1|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|22|3|6|1|1|1|0|0|1|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|23|3|4|1|0|1|1|0|3|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|24|4|4|1|1|1|1|0|4|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|25|3|6|0|0|1|0|0|4|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|26|4|4|0|0|0|0|1|3|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|27|4|4|0|1|0|1|1|2|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|28|2|2|1|1|0|1|0|2|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|29|4|4|1|1|0|0|1|1|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|30|4|1|0|1|1|1|0|2|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|31|4|6|1|1|1|1|0|1|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|32|3|3|0|1|0|0|1|3|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|33|2|4|1|0|0|0|1|1|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|34|2|6|1|1|0|1|1|1|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|35|2|6|0|1|0|0|1|3|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|36|1|2|0|0|1|0|0|1|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|37|1|4|0|0|0|1|0|4|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|38|3|1|0|1|0|1|1|4|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|39|4|2|0|0|0|0|1|3|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|40|2|4|1|1|0|1|1|1|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|41|1|3|1|1|0|0|0|3|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|42|2|1|1|0|1|1|1|4|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|43|4|1|1|0|1|0|0|2|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|44|1|4|0|0|1|1|0|2|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|45|3|1|1|0|0|1|0|1|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|46|2|4|1|1|1|0|1|1|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|47|1|2|0|1|0|0|0|3|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|48|1|4|1|1|0|0|1|4|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|49|4|4|1|0|1|0|1|1|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|50|3|5|1|1|1|1|0|3|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|51|1|4|0|1|0|1|1|4|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|52|2|4|1|1|0|1|1|3|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|53|1|4|0|1|1|0|0|3|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|54|1|5|1|1|0|1|0|3|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|55|3|3|1|1|0|1|1|3|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|56|2|5|1|0|0|0|1|3|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|57|4|1|1|1|0|1|1|3|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|58|1|2|1|1|1|1|1|2|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|59|2|1|0|1|1|0|0|1|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|60|2|4|0|1|1|1|0|2|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|61|2|1|0|0|0|0|1|2|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|62|2|2|0|1|1|1|0|4|0
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|63|3|6|1|0|0|0|1|2|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|64|2|2|1|0|0|1|1|1|1
+1|Conquistador Hotel & Conference Center|Via 5 4-68, Cdad. de Guatemala 01004, Guatemala|4|Guatemala|Guatemala|+502 2424 4444|https://www.hotelconquistador.com.gt/|65|3|5|1|0|0|0|1|3|0
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|1|2|6|1|0|1|1|1|4|0
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|2|4|6|1|0|1|1|0|1|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|3|1|1|0|1|0|0|1|1|0
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|4|4|1|0|0|0|1|1|1|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|5|3|6|0|0|1|1|1|3|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|6|3|5|0|1|0|0|1|1|0
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|7|2|4|1|1|1|1|0|1|0
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|8|2|3|1|1|1|0|0|4|0
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|9|4|4|1|0|0|1|1|4|0
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|10|1|1|0|0|1|1|1|4|0
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|11|3|5|0|1|1|1|1|4|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|12|4|6|0|1|0|1|1|1|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|13|2|6|0|0|0|0|1|3|0
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|14|2|4|1|0|0|0|0|1|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|15|2|1|0|1|1|0|0|1|0
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|16|2|1|0|1|0|0|1|2|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|17|1|3|1|0|0|0|0|2|0
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|18|1|6|0|1|0|0|1|4|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|19|2|5|0|1|0|0|0|1|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|20|3|1|1|1|0|0|1|3|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|21|3|5|1|1|0|0|0|3|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|22|1|2|0|1|1|0|0|2|0
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|23|1|2|1|1|1|0|0|4|0
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|24|4|5|1|1|0|1|0|1|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|25|1|1|1|0|1|0|1|4|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|26|1|4|1|1|0|1|0|4|0
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|27|4|3|1|1|0|1|0|4|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|28|2|5|1|0|0|1|1|3|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|29|2|6|1|0|1|0|1|4|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|30|3|5|0|1|1|1|1|4|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|31|2|4|1|0|0|1|0|1|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|32|4|2|0|1|1|1|0|1|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|33|3|1|0|1|0|0|1|1|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|34|4|5|0|0|0|1|1|2|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|35|3|3|1|0|1|1|1|1|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|36|4|1|0|0|1|0|0|4|1
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|37|3|1|1|0|1|1|0|3|0
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|38|4|3|0|1|1|1|0|2|0
+2|Hotel Soleil Pacífico|Km. 5.5 Carr. a Chulamar, Puerto San José, Guatemala|4|Guatemala|Escuintla|+502 7774 1000|http://www.hotelessoleilguatemala.com/pacifico/default-es.html|39|3|1|1|1|1|0|0|1|1
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|1|1|1|0|1|1|0|0|2|1
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|2|4|2|0|1|0|0|0|1|0
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|3|3|2|1|1|0|1|1|3|0
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|4|1|6|1|0|1|0|0|3|0
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|5|3|6|1|0|1|1|1|2|0
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|6|1|1|0|1|1|1|1|3|0
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|7|3|1|1|0|1|0|1|4|0
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|8|3|6|0|1|1|0|1|2|1
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|9|4|3|1|1|1|0|0|2|0
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|10|3|1|1|1|1|0|1|4|0
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|11|2|5|0|1|1|1|0|4|1
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|12|3|4|0|1|0|0|0|3|1
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|13|2|2|1|1|0|1|1|2|0
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|14|1|2|1|0|0|1|0|2|0
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|15|3|1|1|0|1|0|0|4|0
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|16|4|2|1|1|0|1|0|4|1
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|17|1|6|1|1|0|1|0|2|1
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|18|2|4|1|0|1|0|0|2|0
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|19|3|1|0|1|0|1|0|3|1
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|20|4|4|0|1|0|0|1|1|0
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|21|3|3|1|0|1|0|1|4|0
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|22|4|6|0|0|1|1|0|3|0
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|23|4|5|1|0|1|1|0|1|0
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|24|3|2|0|0|0|0|0|4|0
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|25|1|3|1|1|0|0|0|4|0
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|26|2|5|0|0|1|0|1|4|0
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|27|2|6|0|0|0|0|1|4|1
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|28|3|3|1|0|1|1|1|4|1
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|29|2|3|1|0|0|1|1|3|1
+3|Eco Hotel Playa Quilombo de Curumbe|Barra El Jiote Las Lisas Santa Rosa, Guatemala|2|Guatemala|Santa Rosa|+502 5206 7984|http://playaquilombo.net/|30|3|5|1|1|0|1|0|3|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|1|3|4|0|0|1|1|1|4|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|2|1|5|1|1|1|0|1|4|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|3|4|4|0|1|0|0|0|3|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|4|4|2|0|0|1|0|1|3|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|5|3|4|1|0|1|0|1|4|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|6|3|2|0|1|0|1|1|4|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|7|1|4|0|1|1|0|0|2|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|8|1|2|0|1|1|0|0|1|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|9|3|3|1|0|1|0|0|2|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|10|4|3|1|1|1|1|0|1|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|11|1|4|0|1|0|1|1|2|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|12|2|6|0|0|0|1|0|2|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|13|3|5|0|0|1|0|0|3|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|14|1|3|0|0|1|0|1|2|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|15|3|1|0|0|1|1|1|3|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|16|3|6|1|1|1|1|1|4|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|17|4|2|1|1|1|1|1|4|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|18|1|1|1|0|1|1|0|1|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|19|2|2|0|0|0|0|0|2|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|20|3|1|1|0|0|1|1|4|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|21|4|3|0|0|0|0|0|1|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|22|2|4|0|0|0|1|1|1|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|23|1|6|0|0|1|1|0|3|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|24|4|1|1|0|1|1|0|4|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|25|4|1|0|0|1|0|1|1|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|26|4|5|0|0|0|1|1|4|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|27|4|1|0|0|0|1|1|3|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|28|1|6|1|1|1|0|1|3|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|29|2|2|0|0|1|1|1|1|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|30|4|2|1|1|1|0|1|2|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|31|4|6|1|1|0|1|0|1|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|32|4|5|0|0|0|0|1|1|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|33|4|4|0|1|1|0|0|1|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|34|3|4|0|0|1|0|1|1|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|35|2|4|1|1|1|1|1|3|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|36|1|1|1|0|0|0|1|3|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|37|2|2|0|0|0|1|0|2|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|38|2|5|0|0|0|0|1|2|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|39|2|1|0|1|0|0|0|2|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|40|1|3|0|0|0|0|0|1|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|41|4|4|0|1|1|0|1|3|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|42|1|2|0|1|0|1|1|3|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|43|3|6|0|0|0|1|1|4|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|44|3|3|1|1|1|0|1|3|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|45|2|1|0|0|1|0|1|4|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|46|2|6|1|0|0|0|0|3|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|47|2|1|0|0|0|0|0|2|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|48|4|3|0|1|0|0|1|3|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|49|3|4|1|1|0|0|0|2|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|50|2|3|0|1|1|0|1|4|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|51|2|3|1|1|1|0|0|2|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|52|1|2|0|1|1|0|1|2|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|53|4|4|1|1|1|1|0|2|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|54|3|1|1|0|0|0|1|2|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|55|4|1|1|1|1|1|1|3|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|56|4|1|0|0|0|1|0|4|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|57|2|5|1|1|0|0|0|2|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|58|1|5|0|0|0|1|0|4|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|59|3|3|0|1|1|1|1|3|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|60|3|1|0|0|0|0|1|2|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|61|4|2|1|1|1|1|1|4|0
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|62|3|5|0|0|0|1|0|1|1
+4|Lush Atitlán|San Marcos La Laguna, Guatemala|3|Guatemala|Solola|+502 5484 9042|https://www.lushatitlan.com/|63|4|4|0|1|1|0|1|2|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|1|1|1|1|0|1|0|0|1|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|2|2|3|0|1|1|1|0|1|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|3|2|2|1|0|0|1|0|2|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|4|2|2|0|0|1|0|1|1|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|5|3|1|1|1|1|1|0|2|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|6|2|5|1|0|0|1|0|2|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|7|1|5|0|0|0|1|0|4|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|8|1|5|1|1|0|0|0|3|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|9|3|1|1|1|1|1|1|3|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|10|2|3|1|1|0|1|1|2|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|11|1|5|1|1|1|0|1|2|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|12|1|6|0|0|1|1|0|3|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|13|2|1|1|0|0|1|0|3|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|14|2|4|0|1|0|0|0|4|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|15|3|6|0|1|1|0|1|1|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|16|2|5|1|1|1|1|0|1|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|17|1|2|1|1|0|0|1|3|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|18|1|6|1|1|0|1|0|3|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|19|2|6|1|1|0|0|0|4|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|20|4|4|1|1|0|1|0|4|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|21|2|2|0|0|1|0|1|3|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|22|3|5|1|0|0|0|0|3|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|23|4|1|1|0|1|0|1|1|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|24|4|6|1|1|0|0|0|2|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|25|4|2|1|1|1|1|0|2|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|26|2|3|1|0|1|1|1|2|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|27|3|1|1|1|0|1|0|3|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|28|2|3|1|0|1|0|1|1|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|29|2|2|0|1|0|1|0|2|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|30|2|2|0|1|0|0|1|1|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|31|4|3|1|0|0|1|0|3|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|32|3|1|0|0|1|0|1|2|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|33|3|1|0|0|1|0|0|4|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|34|4|1|1|0|1|0|0|2|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|35|1|4|0|1|1|1|0|4|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|36|3|2|1|1|1|0|0|1|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|37|3|4|0|1|0|1|0|3|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|38|3|5|0|0|1|0|1|3|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|39|4|4|0|1|0|1|0|2|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|40|1|4|1|1|0|0|0|1|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|41|3|5|0|0|0|0|1|4|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|42|2|4|0|0|1|0|1|2|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|43|3|1|0|1|0|1|1|3|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|44|4|1|1|0|0|0|1|1|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|45|3|2|0|0|1|0|1|1|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|46|4|4|0|1|0|1|1|4|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|47|4|1|1|1|1|1|0|3|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|48|3|5|0|1|0|1|0|4|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|49|3|4|0|0|1|0|1|2|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|50|2|4|0|0|1|1|1|1|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|51|1|1|0|1|0|0|0|2|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|52|3|1|0|1|0|1|1|1|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|53|4|6|1|1|1|0|1|4|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|54|3|2|1|0|1|0|1|4|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|55|3|3|1|1|1|0|0|3|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|56|1|5|0|0|0|1|1|3|1
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|57|3|1|1|0|0|0|0|2|0
+5|El Carmen Suites|9a Calle Pte. 17, Antigua Guatemala, Guatemala|3|Guatemala|Sacatepequez|+502 7832 3676|http://elcarmensuites.com/|58|1|5|1|1|1|0|1|4|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|1|4|4|1|0|1|0|1|1|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|2|3|5|1|1|1|0|1|3|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|3|1|4|1|1|1|1|1|3|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|4|4|5|0|1|1|0|1|3|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|5|1|1|0|1|1|0|0|2|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|6|4|4|0|1|0|0|0|2|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|7|1|3|0|1|1|1|1|3|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|8|3|3|0|1|0|0|0|4|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|9|3|5|1|0|0|0|1|3|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|10|1|1|1|0|0|1|1|2|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|11|3|3|1|1|0|1|1|2|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|12|3|4|1|1|1|1|1|4|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|13|3|4|1|0|0|0|0|2|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|14|1|1|0|0|1|1|1|2|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|15|2|6|1|1|1|0|1|3|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|16|4|4|1|1|0|0|1|3|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|17|3|1|1|1|0|0|1|2|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|18|2|3|0|0|0|1|0|1|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|19|1|3|1|1|1|0|0|4|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|20|3|2|1|0|1|1|1|1|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|21|2|1|1|1|0|1|1|3|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|22|2|4|0|0|0|0|1|1|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|23|1|4|0|1|1|1|0|1|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|24|3|1|1|0|1|0|0|4|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|25|4|4|1|0|0|1|1|1|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|26|1|2|1|1|0|0|1|1|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|27|4|1|1|0|1|1|1|3|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|28|1|1|1|0|1|0|0|1|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|29|1|1|0|0|1|1|1|2|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|30|2|3|0|1|1|1|0|1|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|31|2|3|1|1|1|1|0|1|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|32|1|3|0|0|0|1|1|4|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|33|4|2|0|0|0|1|0|1|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|34|1|4|1|1|0|0|1|4|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|35|2|5|1|0|0|1|1|4|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|36|1|2|0|0|1|0|0|3|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|37|1|3|1|1|1|1|0|2|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|38|2|5|1|0|1|1|1|3|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|39|4|6|0|1|1|0|0|3|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|40|4|2|0|1|0|1|1|3|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|41|1|1|0|0|0|0|0|2|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|42|1|4|0|1|0|1|1|3|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|43|3|3|0|0|0|1|0|3|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|44|2|2|0|0|0|1|0|1|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|45|3|5|1|1|0|0|1|4|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|46|3|5|0|1|1|1|1|4|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|47|3|1|0|1|0|0|0|3|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|48|3|3|1|0|1|1|0|1|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|49|1|2|1|1|1|0|0|1|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|50|2|1|0|1|1|0|1|4|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|51|3|6|0|0|1|0|0|1|1
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|52|3|4|0|0|0|0|1|3|0
+6|Hotel Boutique Los Pasos|9 Calle Oriente, 19 Antigua, Guatemala 01003, Guatemala|4|Guatemala|Sacatepequez|+502 5195 1261|http://www.hotellospasos.com/|53|4|3|0|0|1|0|0|4|1
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|1|3|1|0|1|0|0|0|1|0
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|2|3|3|0|1|0|1|1|3|0
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|3|1|5|0|0|1|0|1|4|1
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|4|2|1|0|0|0|1|1|3|1
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|5|2|6|1|1|1|0|1|1|1
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|6|2|1|0|0|1|0|1|3|0
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|7|2|2|0|1|0|0|1|2|0
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|8|2|6|1|1|0|1|0|1|0
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|9|4|3|1|0|0|1|0|4|0
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|10|4|1|0|0|0|0|0|2|1
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|11|1|3|0|0|1|0|1|4|0
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|12|4|5|1|1|1|1|0|4|1
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|13|2|2|1|0|1|1|1|1|0
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|14|1|4|1|0|0|0|1|2|0
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|15|4|3|1|0|0|1|0|2|1
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|16|1|4|1|1|0|1|0|4|1
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|17|2|2|0|1|0|1|0|2|1
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|18|2|3|0|1|1|1|1|2|1
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|19|4|3|0|1|0|0|1|3|0
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|20|2|3|1|0|0|0|0|1|0
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|21|2|5|1|1|1|1|1|3|1
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|22|3|5|1|1|1|1|1|1|1
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|23|4|2|1|0|1|1|0|2|1
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|24|3|3|0|0|1|1|1|4|1
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|25|2|1|1|0|0|1|0|3|1
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|26|3|2|0|0|1|0|0|1|1
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|27|1|6|1|1|0|1|1|4|0
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|28|2|4|1|0|0|0|1|4|1
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|29|2|1|0|0|1|1|0|4|0
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|30|4|1|0|1|1|1|0|4|1
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|31|4|3|0|1|1|0|1|1|1
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|32|4|4|1|1|0|1|0|4|1
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|33|2|2|0|0|1|0|1|3|1
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|34|3|6|0|1|0|0|0|1|1
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|35|3|4|1|0|1|1|0|3|0
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|36|3|6|1|1|0|1|1|3|0
+7|Hyatt Centric Guatemala City|12 Calle 2-25 Zona 10 Guatemala City, 01010, Guatemala|4|Guatemala|Guatemala|+502 2217 6000|https://www.hyatt.com/en-US/hotel/guatemala/hyatt-centric-guatemala-city/guact?src=corp_lclb_gmb_seo_guact|37|1|3|1|0|0|1|0|3|0
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|1|3|2|1|1|1|0|0|3|1
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|2|1|4|1|0|0|1|1|3|0
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|3|1|4|1|1|0|1|1|4|1
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|4|2|1|1|0|1|1|1|3|1
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|5|1|5|0|0|1|1|0|2|1
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|6|4|1|1|1|0|0|0|4|0
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|7|1|2|0|1|1|1|0|3|1
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|8|2|5|0|1|1|1|1|2|1
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|9|1|5|0|1|1|0|0|3|0
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|10|2|2|1|0|0|1|1|1|0
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|11|3|6|0|1|1|1|1|2|0
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|12|2|2|1|0|0|0|1|4|0
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|13|3|3|1|0|1|1|1|3|1
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|14|1|4|0|0|0|0|1|2|0
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|15|4|1|0|1|0|0|0|1|1
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|16|4|5|0|0|0|1|1|3|0
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|17|3|5|1|1|0|0|1|4|1
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|18|2|3|0|0|1|1|0|3|0
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|19|3|1|0|0|0|0|0|3|1
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|20|4|4|1|0|0|0|1|3|0
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|21|1|3|1|1|1|1|1|4|0
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|22|1|6|0|1|0|1|1|3|0
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|23|2|5|0|1|1|1|1|3|1
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|24|2|3|0|0|1|0|0|4|1
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|25|4|4|0|0|1|1|0|2|1
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|26|4|6|1|1|0|1|0|3|1
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|27|2|2|0|0|1|1|1|3|0
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|28|1|4|0|1|1|0|0|1|0
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|29|4|4|1|1|0|0|0|2|1
+8|Hotel la Guitarra|Playa El Rosario Monterrico Guatemala, El Rosario 06024, Guatemala|3|Guatemala|Santa Rosa|+502 4112 2580|https://ar.trivago.com/en/monterrico-158276/hotel/la-guitarra-6542740|30|2|2|1|0|0|0|0|1|0
+9|Casa de Grethel|Calle Club Paraíso, zona 0, Flores 17001, Guatemala|3|Guatemala|Peten|+502 5989 0480|https://www.zenhotels.com/hotel/guatemala/flores/mid8678395/casa_de_grethel|1|2|6|1|0|0|1|1|1|0
+9|Casa de Grethel|Calle Club Paraíso, zona 0, Flores 17001, Guatemala|3|Guatemala|Peten|+502 5989 0480|https://www.zenhotels.com/hotel/guatemala/flores/mid8678395/casa_de_grethel|2|1|4|0|0|1|1|0|4|1
+9|Casa de Grethel|Calle Club Paraíso, zona 0, Flores 17001, Guatemala|3|Guatemala|Peten|+502 5989 0480|https://www.zenhotels.com/hotel/guatemala/flores/mid8678395/casa_de_grethel|3|2|3|0|1|1|1|1|2|0
+9|Casa de Grethel|Calle Club Paraíso, zona 0, Flores 17001, Guatemala|3|Guatemala|Peten|+502 5989 0480|https://www.zenhotels.com/hotel/guatemala/flores/mid8678395/casa_de_grethel|4|3|2|0|0|0|0|1|1|1
+9|Casa de Grethel|Calle Club Paraíso, zona 0, Flores 17001, Guatemala|3|Guatemala|Peten|+502 5989 0480|https://www.zenhotels.com/hotel/guatemala/flores/mid8678395/casa_de_grethel|5|3|4|0|1|1|1|1|2|1
+9|Casa de Grethel|Calle Club Paraíso, zona 0, Flores 17001, Guatemala|3|Guatemala|Peten|+502 5989 0480|https://www.zenhotels.com/hotel/guatemala/flores/mid8678395/casa_de_grethel|6|4|4|1|0|0|1|0|1|1
+9|Casa de Grethel|Calle Club Paraíso, zona 0, Flores 17001, Guatemala|3|Guatemala|Peten|+502 5989 0480|https://www.zenhotels.com/hotel/guatemala/flores/mid8678395/casa_de_grethel|7|1|6|1|1|1|1|1|3|0
+9|Casa de Grethel|Calle Club Paraíso, zona 0, Flores 17001, Guatemala|3|Guatemala|Peten|+502 5989 0480|https://www.zenhotels.com/hotel/guatemala/flores/mid8678395/casa_de_grethel|8|2|5|1|0|0|0|0|4|0
+9|Casa de Grethel|Calle Club Paraíso, zona 0, Flores 17001, Guatemala|3|Guatemala|Peten|+502 5989 0480|https://www.zenhotels.com/hotel/guatemala/flores/mid8678395/casa_de_grethel|9|2|3|1|1|1|1|0|1|0
+9|Casa de Grethel|Calle Club Paraíso, zona 0, Flores 17001, Guatemala|3|Guatemala|Peten|+502 5989 0480|https://www.zenhotels.com/hotel/guatemala/flores/mid8678395/casa_de_grethel|10|1|6|0|0|0|0|0|3|1
+9|Casa de Grethel|Calle Club Paraíso, zona 0, Flores 17001, Guatemala|3|Guatemala|Peten|+502 5989 0480|https://www.zenhotels.com/hotel/guatemala/flores/mid8678395/casa_de_grethel|11|1|5|1|0|0|1|1|3|0
+9|Casa de Grethel|Calle Club Paraíso, zona 0, Flores 17001, Guatemala|3|Guatemala|Peten|+502 5989 0480|https://www.zenhotels.com/hotel/guatemala/flores/mid8678395/casa_de_grethel|12|2|1|1|0|0|1|0|1|1
+9|Casa de Grethel|Calle Club Paraíso, zona 0, Flores 17001, Guatemala|3|Guatemala|Peten|+502 5989 0480|https://www.zenhotels.com/hotel/guatemala/flores/mid8678395/casa_de_grethel|13|2|2|1|1|1|0|0|4|1
+9|Casa de Grethel|Calle Club Paraíso, zona 0, Flores 17001, Guatemala|3|Guatemala|Peten|+502 5989 0480|https://www.zenhotels.com/hotel/guatemala/flores/mid8678395/casa_de_grethel|14|4|4|1|1|1|0|0|3|0
+9|Casa de Grethel|Calle Club Paraíso, zona 0, Flores 17001, Guatemala|3|Guatemala|Peten|+502 5989 0480|https://www.zenhotels.com/hotel/guatemala/flores/mid8678395/casa_de_grethel|15|3|2|0|1|0|0|0|3|0
+9|Casa de Grethel|Calle Club Paraíso, zona 0, Flores 17001, Guatemala|3|Guatemala|Peten|+502 5989 0480|https://www.zenhotels.com/hotel/guatemala/flores/mid8678395/casa_de_grethel|16|4|5|1|1|1|1|0|1|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||1|3|3|0|0|1|1|0|1|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||2|1|3|1|0|1|0|1|1|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||3|4|5|0|1|0|0|1|4|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||4|3|5|0|1|1|0|0|1|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||5|4|6|0|1|1|0|1|1|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||6|2|6|0|1|0|1|0|2|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||7|2|4|1|1|0|0|0|1|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||8|4|2|1|0|1|0|1|1|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||9|2|1|1|1|0|0|1|3|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||10|4|6|0|1|0|1|1|4|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||11|1|1|1|0|1|1|0|4|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||12|1|2|1|1|0|1|0|1|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||13|2|4|0|0|1|0|1|3|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||14|2|3|0|0|1|1|0|2|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||15|4|5|1|0|1|0|1|3|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||16|3|2|0|0|1|1|1|3|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||17|4|3|0|1|0|0|0|2|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||18|2|3|0|1|1|1|0|2|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||19|4|2|1|0|0|0|0|2|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||20|4|6|1|0|1|0|0|1|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||21|2|3|0|0|0|0|1|2|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||22|4|1|0|1|0|1|1|3|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||23|2|2|0|0|0|1|0|2|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||24|2|4|0|1|1|1|1|2|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||25|1|1|0|0|0|1|0|3|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||26|4|6|0|1|1|1|1|1|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||27|4|4|0|0|0|1|1|2|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||28|3|2|1|1|1|0|1|1|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||29|1|2|1|1|0|1|1|3|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||30|2|5|0|0|0|1|0|1|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||31|1|5|1|1|0|1|1|1|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||32|1|4|0|1|0|0|1|1|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||33|1|5|0|1|0|0|1|2|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||34|2|4|1|1|0|1|1|2|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||35|4|5|1|0|0|0|1|4|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||36|1|3|1|1|1|0|1|3|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||37|2|4|0|1|0|0|0|2|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||38|4|4|1|1|1|1|0|3|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||39|1|3|1|1|1|1|0|4|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||40|3|2|1|0|1|1|1|4|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||41|3|6|1|0|0|0|1|1|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||42|1|4|0|0|0|1|1|2|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||43|1|3|1|1|1|0|0|4|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||44|2|2|1|0|1|1|1|4|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||45|2|4|0|1|1|1|1|4|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||46|2|2|0|0|1|0|0|1|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||47|3|2|1|0|1|0|1|4|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||48|2|5|0|1|1|1|0|4|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||49|4|4|1|0|1|1|0|3|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||50|3|2|1|0|1|1|1|2|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||51|3|6|1|0|1|0|0|1|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||52|3|3|0|0|1|0|0|4|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||53|1|6|1|0|1|0|1|1|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||54|1|3|1|0|1|0|1|1|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||55|4|3|1|0|1|1|0|1|1
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||56|2|3|0|0|0|0|0|1|0
+10|Hostal Paraiso San Jose|2 Avenida, Santa Cruz Verapaz, Guatemala|4|Guatemala|Baja Verapaz|||57|1|6|0|0|0|1|1|4|0

@@ -1,0 +1,21 @@
+#BigData 2022
+#Este es el Stack de servicios que utilizaremos en el proyecto
+version: '2'
+
+services:
+#1. Mysql sera la base relacional
+  mysql:
+    image: mysql/mysql-server:5.7.22
+    hostname: mysqlserver
+    container_name: mysqlserver
+    ports:
+      - "6603:3306"
+
+#2. Streamsets es la plataforma que utilizaremos para data streaming
+  streamsets:
+    image: andromeda13/streamsets-datacollector-3.18.1:latest
+    hostname: streamsets
+    container_name: streamsets
+    ports:
+      - "18630:18630"
+
